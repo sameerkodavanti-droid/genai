@@ -33,3 +33,13 @@ pip install -r requirements.txt
 - Connecting to Groq API
 - Prompting LLMs
 - Environment variables using python-dotenv
+
+### Day 2
+**`2_prompting_and_chains.ipynb`**: Learned prompt engineering, dynamic prompts, prompt templates, and basic LCEL chains using LangChain with Groq API.
+**What I Learned (Day 2)**
+- Static vs dynamic prompts
+- Role-based message formatting
+- ChatPromptTemplate usage
+- Building prompt templates with variables
+- Basic LCEL chaining (prompt | llm | parser)
+- Simple output transformation
