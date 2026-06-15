@@ -3,3 +3,5 @@ langchain-groq
 ipykernel
 notebook
 nbstripout
+langchain_google_genai
+streamlit

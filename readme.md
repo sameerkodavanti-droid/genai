@@ -36,10 +36,19 @@ pip install -r requirements.txt
 
 ### Day 2
 **`2_prompting_and_chains.ipynb`**: Learned prompt engineering, dynamic prompts, prompt templates, and basic LCEL chains using LangChain with Groq API.
-**What I Learned (Day 2)**
+## What I Learned (Day 2)
 - Static vs dynamic prompts
 - Role-based message formatting
 - ChatPromptTemplate usage
 - Building prompt templates with variables
 - Basic LCEL chaining (prompt | llm | parser)
 - Simple output transformation
+
+### Day 3 
+**1_QnA.py**: A basic Q&A chatbot using LangChain and Groq API.
+
+## What i Learned (Day 3)
+- Streamlit Basics
+- Basic Q&A Chatbot
+- Streamlit session state
+- Streamlit chat
