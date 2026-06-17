@@ -52,3 +52,13 @@ pip install -r requirements.txt
 - Basic Q&A Chatbot
 - Streamlit session state
 - Streamlit chat
+
+
+### Day 4
+**`3_basic_memory_understanding.ipynb`**: Learned about message history, how to maintain conversation context, and basic memory concepts in LangChain.
+
+## What I Learned (Day 4)
+- Message history concept
+- Maintaining conversation context manually
+- Using a list of messages for chat history
+- Limitations of manual history management
