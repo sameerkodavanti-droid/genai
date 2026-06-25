@@ -62,3 +62,13 @@ pip install -r requirements.txt
 - Maintaining conversation context manually
 - Using a list of messages for chat history
 - Limitations of manual history management
+
+
+### Day 5
+**`4_structureed_output.ipynb`**: Learned about structured output using LangChain and Groq API.
+
+## What I Learned (Day 5)
+- Structured output concept
+- Using Pydantic for structured output
+- Using model_dump() for structured output
+- 
