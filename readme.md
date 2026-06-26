@@ -71,4 +71,25 @@ pip install -r requirements.txt
 - Structured output concept
 - Using Pydantic for structured output
 - Using model_dump() for structured output
-- 
+
+
+### Day 6
+**`6_ollama_app.ipynb`**: explored ollama models 
+
+## What I Learned (Day 6)
+- Ollama server setup
+- Using ollama with LangChain
+- Running local LLMs
+
+### Day 7
+**7_groq_langchain.ipynb**: Learned about groq using langchain
+
+
+### Day 8
+**`7_streaming_responses.ipynb`**: Learned about streaming responses using LangChain and Groq API.
+
+## What I Learned (Day 7)
+- Streaming responses concept
+- Using stream() for streaming responses
+- Using flush() to flush the buffer
+- Printing responses in real-time
