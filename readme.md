@@ -93,3 +93,12 @@ pip install -r requirements.txt
 - Using stream() for streaming responses
 - Using flush() to flush the buffer
 - Printing responses in real-time
+
+
+### Day 9,10 
+**`9_basicc_agent.ipynb`**: Learned about basic agents using LangChain and Groq API and tool calling.
+
+## What I Learned (Day 9,10)
+- creating a basic agent usinh langchain
+- implemnt tool calling
+- understood the content inside genarated response
