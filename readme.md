@@ -102,3 +102,11 @@ pip install -r requirements.txt
 - creating a basic agent usinh langchain
 - implemnt tool calling
 - understood the content inside genarated response
+
+
+### Day 11
+**`10_google_search_agent.ipynb`**: Learned about google search using langchain and groq API  and Serper API
+
+## What I Learned (Day 11)
+- google search using langchain
+- implementing google search in agent
