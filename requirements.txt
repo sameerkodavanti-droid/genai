@@ -6,3 +6,4 @@ nbstripout
 langchain_google_genai
 streamlit
 langchain-community
+langgraph

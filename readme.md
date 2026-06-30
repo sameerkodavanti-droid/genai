@@ -110,3 +110,12 @@ pip install -r requirements.txt
 ## What I Learned (Day 11)
 - google search using langchain
 - implementing google search in agent
+
+
+## Day 12
+**`11_agent_memory.ipynb`**: Learned about agent memory using LangGraph and Groq API and implemented basic agent memory. 
+
+### What I Learned (Day 12)
+- Agent memory concept
+- Implementing agent memory using InmemorySaver
+- Understanding thread_id
