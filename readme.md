@@ -45,7 +45,7 @@ pip install -r requirements.txt
 - Simple output transformation
 
 ### Day 3 
-**1_QnA.py**: A basic Q&A chatbot using LangChain and Groq API.
+**`1_QnA.py`**: A basic Q&A chatbot using LangChain and Groq API.
 
 ## What i Learned (Day 3)
 - Streamlit Basics
@@ -82,7 +82,7 @@ pip install -r requirements.txt
 - Running local LLMs
 
 ### Day 7
-**7_groq_langchain.ipynb**: Learned about groq using langchain
+**`7_groq_langchain.ipynb`**: Learned about groq using langchain
 
 
 ### Day 8
