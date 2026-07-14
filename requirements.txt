@@ -7,3 +7,6 @@ langchain_google_genai
 streamlit
 langchain-community
 langgraph
+pypdf
+beautifulsoup4
+wikipedia
