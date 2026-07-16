@@ -119,3 +119,21 @@ pip install -r requirements.txt
 - Agent memory concept
 - Implementing agent memory using InmemorySaver
 - Understanding thread_id
+
+
+### Day 13 
+**`13_rag_text_split.ipynb`**: Learned about RAG and text splitting using LangChain and Groq API and implemented basic RAG using LangChain and Groq API.
+
+## What I Learned (Day 13)
+- RAG concept
+- Implementing RAG using LangChain and Groq API
+
+
+### Day 14 
+**`14_vector_embeddings.ipynb`**: Learned about vector embeddings using LangChain and Groq API and implemented basic vector embeddings using LangChain.
+
+## What I Learned (Day 14)
+- Vector embeddings concept
+- Implementing vector embeddings using LangChain
+- stored embedding in chroma and also InMemoryVectorStore
+- retrieved using similarity_search
