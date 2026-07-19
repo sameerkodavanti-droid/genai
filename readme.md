@@ -137,3 +137,10 @@ pip install -r requirements.txt
 - Implementing vector embeddings using LangChain
 - stored embedding in chroma and also InMemoryVectorStore
 - retrieved using similarity_search
+
+
+
+### Day 15 
+**`15_data_validation.ipynb`**: Learned about data validation using pydantic , implemented basic data validation.
+
+**`6_rag_agent.py`**: Build a ai agent using langchain and groq api and implemented basic RAG using langchain and groq API.
